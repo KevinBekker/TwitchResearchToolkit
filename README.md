@@ -1,1 +1,1 @@
-# TwitchResearchToolkit
+# TwitchResearchKit
